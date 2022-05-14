@@ -2,7 +2,7 @@
 
 A starter template to build completely static websites with [Ghost](https://ghost.org) & [Eleventy](https://www.11ty.io)
 
-**Demo:** https://eleventy.ghost.org
+**Demo:** https://627fc7648889307ff8082294--silver-starship-be9aea.netlify.app/
 
 ![screenshot](https://user-images.githubusercontent.com/1177460/61880744-5b138980-aeed-11e9-9d8e-07c0b3c03cc5.png)
 
